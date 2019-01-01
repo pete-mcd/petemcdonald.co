@@ -1,0 +1,21 @@
+baseURL = "http://petemcdonald.co/"
+languageCode = "en-us"
+title = "Pete McDonald"
+theme = "yinyang"
+DefaultContentLanguage = "en"
+
+ignoreFiles = ["content/en/two-outdoor-centres.md"]
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+
+[[params.socials]]
+name = "About Me"
+link = "about"
+
+[author]
+  name = "Pete McDonald"
+  homepage = "https://petemcdonald.co/"
