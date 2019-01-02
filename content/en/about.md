@@ -3,6 +3,6 @@ title: 'Pete McDonald'
 url: '/about/'
 ---
 
-Use pen tool to edit this page. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+While a teenager in Merseyside in the early 1960s, I took up hillwalking and rock climbing. In 1968 I worked as a temporary instructor at a residential outdoor centre in the Lake District. This opening led in 1976 to a permanent job as an instructor at White Hall Centre in Derbyshire, where I spent sixteen years. In 1992 I emigrated to New Zealand, where I divided my time into roughly equal portions of fatherhood, teaching, writing and cycling..
 
 <img style="float: left;" src="/profile.jpg">
