@@ -22,5 +22,5 @@ Order the hardback or e-book through your local bookshop or through an online bo
 
 pete.mcdnz@outlook.com
 
-- [Purchase on Amazon](https://www.amazon.com/Story-White-Hall-Centre-Education-ebook/dp/B07BQM25Q7)
-- [Purchase on Google Play](https://play.google.com/store/books/details?id=prBJDwAAQBAJ&rdid=book-prBJDwAAQBAJ&rdot=1&source=gbs_atb&pcampaignid=books_booksearch_atb)
+- [Purchase MOBI or hardback on Amazon](https://www.amazon.com/Story-White-Hall-Centre-Education-ebook/dp/B07BQM25Q7)
+- [Purchase EPUB or PDF on Google Play](https://play.google.com/store/books/details?id=prBJDwAAQBAJ&rdid=book-prBJDwAAQBAJ&rdot=1&source=gbs_atb&pcampaignid=books_booksearch_atb)
