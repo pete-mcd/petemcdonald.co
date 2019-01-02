@@ -19,6 +19,7 @@ ISBN 9780473428853, E-book (MOBI), list price £9.99.
 ISBN 9780473428860, PDF, list price £9.99
 
 Order the hardback or e-book through your local bookshop or through an online bookseller. The PDF is available on Google Play. UK customers can also order the hardback directly through me at a price of £28, which includes delivery to a UK address.
+
 pete.mcdnz@outlook.com
 
 - [Purchase on Amazon](https://www.amazon.com/Story-White-Hall-Centre-Education-ebook/dp/B07BQM25Q7)
