@@ -4,7 +4,7 @@ date: 2018-01-01
 draft: false
 ---
 
-White Hall Centre for Open Country Pursuits, near Buxton in Derbyshire, was set up in 1950 by Jack Longland, Derbyshire’s director of education. By 1970, Longland had observed ‘an astonishing drift of the whole range of subjects which we call physical education towards outdoor pursuits, towards mountains and moors and rivers, lakes and the sea’. In successfully achieving Longland’s local aims and in significantly influencing national developments, White Hall Centre helped to widen the meaning of education, and particularly of physical education. The Story of White Hall Centre describes White Hall’s origins and its sixty-seven years in existence.
+White Hall Centre for Open Country Pursuits, near Buxton in Derbyshire, was set up in 1950 by Jack Longland, Derbyshire’s director of education. By 1970, Longland had observed ‘an astonishing drift of the whole range of subjects which we call physical education towards outdoor pursuits, towards mountains and moors and rivers, lakes and the sea’. In successfully achieving Longland’s local aims and in significantly influencing national developments, White Hall Centre helped to widen the meaning of education, and particularly of physical education. *The Story of White Hall Centre* describes White Hall’s origins and its sixty-seven years in existence.
 
 Written and published by Pete McDonald, 2018.
 768 pages (156mm x 234mm).
