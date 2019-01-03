@@ -4,6 +4,6 @@ date: 2013-01-01
 draft: false
 ---
 
-Todo, short description...
+9 MB, 55 A4 pages.
 
 See the full pdf here: https://petemcdonald.co/UT2013.pdf
