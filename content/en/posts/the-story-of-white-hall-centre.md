@@ -20,5 +20,5 @@ ISBN 9780473428860, PDF, list price £9.99
 
 UK customers can order the hardback directly through me at a price of £28, which includes delivery to a UK address. Contact me by email: pete.mcdnz@outlook.com
 
-- [Purchase the MOBI, ie, Kindle, on Amazon](https://www.amazon.com/Story-White-Hall-Centre-Education-ebook/dp/B07BQM25Q7)
+- [Purchase the MOBI, ie, Kindle, on Amazon](https://www.amazon.co.uk/Story-White-Hall-Centre-Education-ebook/dp/B07BQM25Q7/ref=sr_1_1?ie=UTF8&qid=1546477740&sr=8-1&keywords=the+story+of+white+hall+centre)
 - [Purchase the EPUB or the PDF on Google Play](https://play.google.com/store/books/details?id=prBJDwAAQBAJ&rdid=book-prBJDwAAQBAJ&rdot=1&source=gbs_atb&pcampaignid=books_booksearch_atb)
