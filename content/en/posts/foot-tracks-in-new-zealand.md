@@ -16,4 +16,6 @@ draft: false
 
 The electronic versions of this book available on Google Books have received 21,845 visits and 150,554 page views (May 2017).
 
+7 MB, 1000 A4 pages.
+
 See the full pdf here: https://petemcdonald.co/ft.pdf
