@@ -4,6 +4,6 @@ date: 2013-01-01
 draft: false
 ---
 
-Todo, short description...
+44 MB, 92 A4 pages.
 
 See the full pdf here: https://petemcdonald.co/T-on-W.pdf
