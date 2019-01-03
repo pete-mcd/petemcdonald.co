@@ -3,6 +3,7 @@ title: 'Foot-tracks in New Zealand: Origins, Access Issues, and Recent Developme
 date: 2011-01-01
 draft: false
 ---
+2011
 
 ‘Detail is the book’s strength, and it will be essential reading for anyone researching access issues.’ David Barnes.
 
