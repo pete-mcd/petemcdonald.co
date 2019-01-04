@@ -8,6 +8,7 @@ draft: false
 This book, published in softback in 1997, was an autobiographical account of working in a residential outdoor education centre, in Derbyshire, England. The book has not yet been digitised, so it is only available as a printed book.
 
 ‘The best and most honest reflection on the heart and brain of outdoor education that anybody has written.’ Steve Long.
+
 ‘It has the quality to become a cult classic.’ Nick Halls.
 
 Softback, 384 A5 pages. I have a few copies left for sale. Email me at pete.mcdnz@outlook.com
