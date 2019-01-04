@@ -1,5 +1,5 @@
 ---
-title: 'A Submission on *Outdoor Walking Access: Consultation Document*'
+title: 'A Submission on Outdoor Walking Access: Consultation Document'
 date: 2006-01-01
 draft: false
 ---
