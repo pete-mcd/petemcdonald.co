@@ -7,6 +7,8 @@ draft: false
 
 An essay that returned to the aims theme of my 1997 book *Climbing Lessons*.
 
+‘The lyrical style made it one of the easiest pieces of thought provoking writing I’ve ever read.’ Rod Costigan.
+
 36 A4 pages.
 
 See the full pdf here: https://petemcdonald.co/IssuesOfProgress.pdf
