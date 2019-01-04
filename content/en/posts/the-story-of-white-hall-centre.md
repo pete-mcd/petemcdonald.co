@@ -1,5 +1,5 @@
 ---
-title: 'The Story of White Hall Centre'
+title: 'The Story of White Hall Centre: Outdoor Education across the Decades'
 date: 2018-01-01
 draft: false
 ---
