@@ -23,9 +23,13 @@ UK customers can order the hardback directly through me at a price of £28, whic
 - [Buy the MOBI, ie, Kindle, on Amazon](https://www.amazon.co.uk/Story-White-Hall-Centre-Education-ebook/dp/B07BQM25Q7/ref=sr_1_1?ie=UTF8&qid=1546477740&sr=8-1&keywords=the+story+of+white+hall+centre)
 - [Buy the EPUB or the PDF on Google Play](https://play.google.com/store/books/details?id=prBJDwAAQBAJ&rdid=book-prBJDwAAQBAJ&rdot=1&source=gbs_atb&pcampaignid=books_booksearch_atb)
 
-“The book is an exemplar of thorough research conducted with forensic accuracy and an ability to bring history to life … All history is partial and there are always different narratives and perspectives to evolve but it is hard to imagine a more thorough and skilfully crafted work than this.”  
+### Reviews
+
+<span style="color: #626EBA; font-size:16px;">_“The book is an exemplar of thorough research conducted with forensic accuracy and an ability to bring history to life … All history is partial and there are always different narratives and perspectives to evolve but it is hard to imagine a more thorough and skilfully crafted work than this.”_</span>
+
 Pete Allison, The Kurt Hahn Consortium for Values and Experiential Learning, The Pennsylvania State University.
 
-“I worked all my professional life in outdoor education, covering over half of White Hall’s 70 years of existence and becoming acquainted with many of the characters mentioned in the book, but I now realise how much I didn’t know, the books I should have read, and the questions I should have asked to properly understand the underpinnings of my own outdoor values.”  
+<span style="color:#626EBA; font-size:16px;">_“I worked all my professional life in outdoor education, covering over half of White Hall’s 70 years of existence and becoming acquainted with many of the characters mentioned in the book, but I now realise how much I didn’t know, the books I should have read, and the questions I should have asked to properly understand the underpinnings of my own outdoor values.”_</span>
+
 Tim Jepson, Senior Lecturer in Outdoor Education, Bangor University (Retired 2013).
 
