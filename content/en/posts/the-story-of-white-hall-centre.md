@@ -10,12 +10,9 @@ Written and published by Pete McDonald, 2018.
 768 pages (156mm x 234mm).  
 285 photographs and drawings, 36 tables and diagrams.
 
-ISBN 9780473425272, hardback, list price £49.
-
-ISBN 9780473428884, E-book (EPUB), list price £9.99.
-
-ISBN 9780473428853, E-book (MOBI), list price £9.99.
-
+ISBN 9780473425272, hardback, list price £49.  
+ISBN 9780473428884, E-book (EPUB), list price £9.99.  
+ISBN 9780473428853, E-book (MOBI), list price £9.99.  
 ISBN 9780473428860, PDF, list price £9.99
 
 UK customers can order the hardback directly through me at a price of £28, which includes delivery to a UK address. Contact me by email: pete.mcdnz@outlook.com
