@@ -1,6 +1,6 @@
 ---
 title: 'Next Priority: The Black Tracks'
-date: 2019-12-06
+date: 2019-01-01
 draft: false
 ---
 2019
