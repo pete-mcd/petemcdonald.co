@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Pete McDonald"
 theme = "yinyang"
 DefaultContentLanguage = "en"
+googleAnalytics = "UA-145441864-1"
 
 ignoreFiles = ["content/en/two-outdoor-centres.md"]
 
@@ -13,8 +14,8 @@ ignoreFiles = ["content/en/two-outdoor-centres.md"]
     weight = 1
 
 [[params.socials]]
-name = "About Me"
-link = "about"
+  name = "About Me"
+  link = "about"
 
 [author]
   name = "Pete McDonald"
