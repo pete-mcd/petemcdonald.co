@@ -11,4 +11,4 @@ Listed in 2017 as 13th in ‘popularity’ (judged by the number of views) out o
 
 1.9 MB, 84 A4 pages.
 
-See the full pdf here: https://petemcdonald.co/GOBweb.pdf
+See the full pdf here: [https://petemcdonald.co/GOBweb.pdf](https://petemcdonald.co/GOBweb.pdf)

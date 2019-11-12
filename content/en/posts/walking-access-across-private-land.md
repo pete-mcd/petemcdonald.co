@@ -9,4 +9,4 @@ An examination of two years of controversy over walking access across private la
 
 1.9 MB, 94 A4 pages.
 
-See the full pdf here: https://petemcdonald.co/bts.pdf
+See the full pdf here: [https://petemcdonald.co/bts.pdf](https://petemcdonald.co/bts.pdf)

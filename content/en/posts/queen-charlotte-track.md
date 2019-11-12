@@ -9,4 +9,4 @@ By 2010, access issues connected with the Queen Charlotte Track in the Marlborou
 
 Ten A4 pages.
 
-See the full pdf here: https://petemcdonald.co/qct2010.pdf
+See the full pdf here: [https://petemcdonald.co/qct2010.pdf](https://petemcdonald.co/qct2010.pdf)

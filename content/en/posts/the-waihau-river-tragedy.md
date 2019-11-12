@@ -9,4 +9,4 @@ A newsletter article on risk management.
 
 Three A4 pages.
 
-See the full pdf here: https://petemcdonald.co/wrtA4.pdf
+See the full pdf here: [https://petemcdonald.co/wrtA4.pdf](https://petemcdonald.co/wrtA4.pdf)

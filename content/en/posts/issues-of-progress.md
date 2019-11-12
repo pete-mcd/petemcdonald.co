@@ -11,4 +11,4 @@ An essay that returned to the aims theme of my 1997 book *Climbing Lessons*.
 
 36 A4 pages.
 
-See the full pdf here: https://petemcdonald.co/IssuesOfProgress.pdf
+See the full pdf here: [https://petemcdonald.co/IssuesOfProgress.pdf](https://petemcdonald.co/IssuesOfProgress.pdf)

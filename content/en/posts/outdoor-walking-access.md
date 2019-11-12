@@ -9,4 +9,4 @@ A submission to the Walking Access Consultation Panel.
 
 1 MB, 63 A4 pages.
 
-See the full pdf here: https://petemcdonald.co/wa.pdf
+See the full pdf here: [https://petemcdonald.co/wa.pdf](https://petemcdonald.co/wa.pdf)

@@ -9,4 +9,4 @@ An essay on the risk management of adventurous outdoor activities.
 
 29 A4 pages.
 
-See the full pdf here: https://petemcdonald.co/A4SAO.pdf
+See the full pdf here: [https://petemcdonald.co/A4SAO.pdf](https://petemcdonald.co/A4SAO.pdf)

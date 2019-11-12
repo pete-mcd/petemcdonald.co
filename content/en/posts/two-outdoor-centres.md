@@ -9,4 +9,4 @@ An award-winning paper, written for the League for the Exchange of Commonwealth 
 
 12 MB, 112 A4 pages.
 
-See the full pdf here: https://petemcdonald.co/2Centres1983.pdf
+See the full pdf here: [https://petemcdonald.co/2Centres1983.pdf](https://petemcdonald.co/2Centres1983.pdf)

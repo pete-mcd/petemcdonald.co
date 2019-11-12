@@ -9,4 +9,4 @@ A submission to the Draft General Policy National Parks Act of August 2003. This
 
 1 MB, 29 A4 pages.
 
-See the full pdf here: https://petemcdonald.co/im.pdf
+See the full pdf here: [https://petemcdonald.co/im.pdf](https://petemcdonald.co/im.pdf)

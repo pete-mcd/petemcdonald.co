@@ -9,4 +9,4 @@ This paper was an update on the access issues, for outdoor recreators, September
 
 15 A4 pages.
 
-See the full pdf here: https://petemcdonald.co/aos.pdf
+See the full pdf here: [https://petemcdonald.co/aos.pdf](https://petemcdonald.co/aos.pdf)

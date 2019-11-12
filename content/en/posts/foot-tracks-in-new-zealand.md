@@ -19,4 +19,4 @@ The electronic versions of this book available on Google Books have received 21,
 
 7 MB, 1000 A4 pages.
 
-See the full pdf here: https://petemcdonald.co/ft.pdf
+See the full pdf here: [https://petemcdonald.co/ft.pdf](https://petemcdonald.co/ft.pdf)
