@@ -21,6 +21,9 @@ ignoreFiles = ["content/en/two-outdoor-centres.md"]
   name = "Pete McDonald"
   homepage = "https://petemcdonald.co/"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 # https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
   plainIDAnchors = true
