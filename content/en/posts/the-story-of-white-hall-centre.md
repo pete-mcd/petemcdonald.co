@@ -30,3 +30,6 @@ Pete Allison, The Kurt Hahn Consortium for Values and Experiential Learning, The
 
 Tim Jepson, Senior Lecturer in Outdoor Education, Bangor University (Retired 2013).
 
+<span style="color:#626EBA; font-size:16px;">_"… an outstanding, really excellent example of its kind, a model for others"_</span>
+
+Catherine Moorehead, writer and editor.
