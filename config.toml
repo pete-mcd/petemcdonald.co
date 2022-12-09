@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Pete McDonald"
 theme = "yinyang"
 DefaultContentLanguage = "en"
-googleAnalytics = "UA-145441864-1"
+googleAnalytics = "G-343196844"
 
 ignoreFiles = ["content/en/two-outdoor-centres.md"]
 
